@@ -1,12 +1,9 @@
 {
-  "$schema": "https://raw.githubusercontent.com/SteamClientHomebrew/Millennium/main/src/sys/plugin-schema.json",
-  "name": "MLZCommunity",
-  "common_name": "MLZ Tools",
-  "description": " developed by MLZ ",
-  "version": "1.5.6",
-  "author": "MLZ Community ",
-  "github": {
-    "owner": "MLZ",
-    "repo": "MLZTools"
-  }
+  "common_name": "MLZTools",
+  "name": "mlztools_plugin",
+  "description": "This is my MLZTools plugin",
+  "thumbnail": "https://i.imgur.com/gwVBEK0.png",
+  "splash_image": "https://i.imgur.com/gwVBEK0.png",
+  "version": "1.0.0",
+  "include": ["frontend", "backend"]
 }
