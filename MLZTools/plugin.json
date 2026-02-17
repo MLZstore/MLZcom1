@@ -1,0 +1,12 @@
+{
+  "$schema": "https://raw.githubusercontent.com/SteamClientHomebrew/Millennium/main/src/sys/plugin-schema.json",
+  "name": "MLZCommunity",
+  "common_name": "MLZ Tools",
+  "description": " developed by MLZ ",
+  "version": "1.5.6",
+  "author": "MLZ Community ",
+  "github": {
+    "owner": "MLZ",
+    "repo": "MLZTools"
+  }
+}
