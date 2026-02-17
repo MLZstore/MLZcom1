@@ -1,9 +1,0 @@
-{
-  "common_name": "MLZTools",
-  "name": "mlztools_plugin",
-  "description": "This is my MLZTools plugin",
-  "thumbnail": "https://i.imgur.com/gwVBEK0.png",
-  "splash_image": "https://i.imgur.com/gwVBEK0.png",
-  "version": "1.0.0",
-  "include": ["frontend", "backend"]
-}
